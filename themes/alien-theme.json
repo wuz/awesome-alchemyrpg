@@ -1,0 +1,27 @@
+{
+  "accentColor": "#84ff63",
+  "customColors": [],
+  "accentFont": "https://cdn.alchemyrpg.com/users/6261c5ca8780c6515b1c4212/media/llb31e3t.ttf",
+  "glyphSymbol": "https://cdn.alchemyrpg.com/users/6261c5ca8780c6515b1c4212/media/llb31k3h.svg",
+  "sheetHeader": null,
+  "sheetFooter": null,
+  "modalBackground": null,
+  "modalBackgroundOpacity": null,
+  "sceneFrame": null,
+  "avatarFrame": null,
+  "avatarFrameCombat": null,
+  "avatarFrameCharacterSheet": null,
+  "sceneVignette": null,
+  "customizeTabBar": true,
+  "tabBarStyles": {
+    "fontSize": "18px",
+    "letterSpacing": "0px",
+    "textTransform": "none"
+  },
+  "customizeSectionHeaders": true,
+  "sectionHeaderStyles": {
+    "fontSize": "18px",
+    "letterSpacing": "0px",
+    "textTransform": null
+  }
+}
