@@ -7,4 +7,11 @@
 
 Alchemy recently added universe themes, making it easy to style your universes with fonts, colors, and images.
 
-[Alien Theme by Wuz](themes/alien-theme.json)
+<figure>
+  
+![CleanShot 2023-08-15 at 10 59 40](https://github.com/wuz/awesome-alchemyrpg/assets/2363236/4d2e4fa0-10ba-4a70-b2b1-d1e8b1f524f0)
+<figcaption>
+
+  [Alien Theme by Wuz](themes/alien-theme.json)
+</figcaption>
+</figure>
