@@ -1,0 +1,27 @@
+{
+    "accentColor": "#c54a41",
+    "customColors": [],
+    "accentFont": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/ll7s0454.ttf",
+    "glyphSymbol": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/llh3vq7b.png",
+    "sheetHeader": "",
+    "sheetFooter": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/llgry2ob.png",
+    "modalBackground": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/ll9d4h59.png",
+    "modalBackgroundOpacity": "0.5",
+    "sceneFrame": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/llh3w8u4.png",
+    "avatarFrame": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/llgrfuz7.png",
+    "avatarFrameCombat": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/lldviley.png",
+    "avatarFrameCharacterSheet": "https://cdn.alchemyrpg.com/users/63c47dd24dfcec68f9816521/media/lldv808o.png",
+    "sceneVignette": "",
+    "customizeTabBar": true,
+    "tabBarStyles": {
+      "fontSize": "10px",
+      "letterSpacing": "",
+      "textTransform": "lowercase"
+    },
+    "customizeSectionHeaders": true,
+    "sectionHeaderStyles": {
+      "fontSize": "12px",
+      "letterSpacing": null,
+      "textTransform": "lowercase"
+    }
+  }
