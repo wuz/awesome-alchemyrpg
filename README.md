@@ -21,20 +21,20 @@ Alchemy recently added universe themes, making it easy to style your universes w
 ## The One Ring
 
 <figure>
-  
+  ![The One Ring - Gandalf preview](https://github.com/wuz/awesome-alchemyrpg/assets/2363236/adbc9c6d-70d4-46d5-925c-19bea5ffdeb0)
 
 <figcaption>
 
-  Gandalf Theme by Iosu [English](themes/en/the-one-ring-theme-gandalf.json) | [Español](themes/es/el-anillo-unico-theme-gandalf.json)
+  The One Ring Gandalf Theme by Iosu [English](themes/en/the-one-ring-theme-gandalf.json) | [Español](themes/es/el-anillo-unico-theme-gandalf.json)
 </figcaption>
 </figure>
 
 
 <figure>
-  
+    ![The One Ring - Sauron preview](https://github.com/wuz/awesome-alchemyrpg/assets/2363236/16da9fd8-222b-400f-b5c8-fcf765ac1baf)
 
 <figcaption>
 
-  Sauron Theme by Iosu [English](themes/en/the-one-ring-theme-sauron.json) | [Español](themes/es/el-anillo-unico-theme-sauron.json)
+  The One Ring Sauron Theme by Iosu [English](themes/en/the-one-ring-theme-sauron.json) | [Español](themes/es/el-anillo-unico-theme-sauron.json)
 </figcaption>
 </figure>
